@@ -1,1 +1,1 @@
-This program detects breast cancer, based off of data.
+This program detects breast cancer
